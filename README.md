@@ -1,6 +1,6 @@
 # 📚 Coursera Clone – Pixel Plus Hackathon Project
 
-🔗 **Live Demo**: [https://coursera-pixel.netlify.app/]
+## 🔗 **Live Demo**: https://coursera-pixel.netlify.app/
 
 ---
 
@@ -29,6 +29,8 @@ This project is a **pixel-perfect clone of Coursera** (https://www.coursera.org/
 > As per the hackathon requirement, we added a **complex, innovative feature** that is not part of the original Coursera site.
 
 ### ✨ AI-Powered Learning Track Generator
+
+#### SignUp first to access Dashboard 
 
 - 📈 Personalized track builder based on user’s:
   - Interests (e.g. Data Science, Business, Design)
