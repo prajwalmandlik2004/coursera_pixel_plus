@@ -53,3 +53,18 @@ This project is a **pixel-perfect clone of Coursera** (https://www.coursera.org/
 - 📦 External assets (Google Fonts, CDN images, icons)
 
 ---
+
+## ⚙️ Installation & Running Locally
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/coursera-clone.git
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
